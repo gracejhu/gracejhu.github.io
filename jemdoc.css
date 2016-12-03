@@ -57,7 +57,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #6A0575; /*#224b8d*/; 
+	color: #16676F; /*#224b8d*/; 
 	text-decoration: none;
 }
 
@@ -65,15 +65,15 @@ a:hover {
 	border-bottom: 1px gray dotted;
 }
 #layout-menu a:link, #layout-menu, #layout-menu a:hover {
-	color: #6A0575 /*#527bbd*/;
+	color: #16676F /*#527bbd*/;
 	text-decoration: none;
 }
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: 527bbd/*#022b6d*/;
+	color: #16676F/*#022b6d*/;
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #6A0575 /*#527bbd*/;
+	color: #16676F /*#527bbd*/;
 	text-decoration: none;
 }
 
@@ -122,7 +122,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #6A0575/*#527bbd*/;
+	color: #16676F/*#527bbd*/;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
