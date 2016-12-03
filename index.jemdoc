@@ -1,8 +1,9 @@
 # jemdoc: addcss{person.css}
-= GRACE
+~~~
+{}{img_left}{GRACE_logo.png}{GRACE}{700}{}
+~~~
 
- *Gr*aduate *A*ssociation of Women in [https://www.cs.jhu.edu/ *C*omputer Science] &  [https://www.ece.jhu.edu/ *E*lectrical and Computer Engineering] \n
-at The Johns Hopkins University (JHU)
+ *Gr*aduate *A*ssociation of Women in [https://www.cs.jhu.edu/ *C*omputer Science] &  [https://www.ece.jhu.edu/ *E*lectrical and Computer Engineering] at The Johns Hopkins University (JHU)
 
 == Events
 We meet biweekly for lunch (bring your own lunch). \n
@@ -23,6 +24,9 @@ Anyone is welcome to join us, particularly graduate students in ECE & CS who ide
 You can contact the organizers here: grace-request {at} lists {dot} johnshopkins {dot} edu \n
 Please contact this address if you would like to join the mailing list.
 
+== Resources
+We have a [resources.html Resource Page] with some resources and information for people looking for additional communites, or looking to learn more. \n
+This is not an endorsement of any organization or idea, but rather a starting place for learning more and continuing the conversation. 
 
 == 
 You can also find information about [http://www.cs.jhu.edu/undergraduate-studies/undergraduate-student-groups/wics/ WiCS] (*W*omen in *C*omputer *S*cience). \n
