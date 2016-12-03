@@ -7,4 +7,4 @@ This site is built using jemdoc (http://jemdoc.jaboc.net/)
 a full tutorial is avaible on the site, but if you want to make small changes:
 * update index.jemdoc
 * run: python jemdoc.py index.jemdoc
-* an updated html file will be created
+* an updated index.html file will be created
